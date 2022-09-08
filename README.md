@@ -143,6 +143,7 @@ All commands should work for at least git version 2.13.0. See the [git website](
   - [Tutorials](#tutorials)
   - [Scripts and Tools](#scripts-and-tools)
   - [GUI Clients](#gui-clients)
+  - [Getting started with Git](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6?gi=24f1331c1851)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
